@@ -21,10 +21,11 @@ sport, and date were the biggest categories.) Here's what I found:
       3. After filtering for states with at least 40 orders placed throughout the year, Massachusetts had the highest average
       profit per order ($143.41) followed by Connecticut ($114.62), then Washington and Kansas ($108.40 each).
 
-      4. The three months with the highest average profit were April ($187.82), May ($161.19), and June ($190.23). These three months
-      also had the highest total profit for the year ($41,141.00, $38,847.24, and $42,802.26 respectively).
+      4. The three months with the highest average profit were April ($187.82), May ($161.19), and June ($190.23). These three
+      months also had the highest total profit for the year ($41,141.00, $38,847.24, and $42,802.26 respectively).
 
-      5. In June, the highest average profit among all sports was football ($214.00), whereas hockey gave the most total profit ($10,010.28).
+      5. In June, the highest average profit among all sports was football ($214.00), whereas hockey gave the most total profit
+      ($10,010.28).
 
       6. November is the only month where the top five sales yielded a profit below $100.00 each (the highest profit in a single order
       during November was $88.44.) The top five orders in every other month with respect to profit were above $120.00.
