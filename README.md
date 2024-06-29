@@ -1,0 +1,1 @@
+The customer_info and sales csv files were imported to SQL for cleaning and exploring. The Sales Data Cleaning and Exploration Project SQL file has all the codes with simple comments describing them. Lastly, the file named Summary of Cleaning and Exploration describes my experiences and findings in more detail.
